@@ -1,7 +1,6 @@
 ### Hello, World! I'm Carlos 👋
 
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning React Native with Expo
 - 📫 How to reach me: caique.h@hotmail.com
 
 <div>
