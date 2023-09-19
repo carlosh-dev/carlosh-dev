@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Keep leaning, keep growing up.</h3>
+<h1>Hi 👋, I'm Carlos</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=mono&pause=1000&color=15FF02&vCenter=true&width=429&height=45&lines=keep+coding.+keep+learning." alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [Kirvano](https://kirvano.com/)
 
