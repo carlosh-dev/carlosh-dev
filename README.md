@@ -2,9 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=mono&pause=1000&color=15FF02&vCenter=true&width=429&height=45&lines=keep+coding.+keep+learning." alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [Kirvano](https://kirvano.com/)
-
-- 🌱 I’m currently learning **React with NextJs and Tailwind**
+- 🔭 I’m currently working on [Penzack](https://penzack.com/) 
 
 - 📫 How to reach me **caique.h@hotmail.com**
 
