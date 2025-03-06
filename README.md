@@ -2,8 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=4C8CDB&random=true&width=435&lines=keep+coding.+keep+learning." alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on [Penzack](https://penzack.com/) 
-
+- 🧠 I'm currently leaning: Ruby on Rails 💎
+- 🔭 I’m currently working on [Penzack](https://penzack.com/)
 - 📫 How to reach me **caique.h@hotmail.com**
 
 <p>&nbsp;</p>
