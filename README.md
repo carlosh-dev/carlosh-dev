@@ -1,10 +1,11 @@
 <h3>Hi 👋, I'm Carlos</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=4C8CDB&random=true&width=435&lines=keep+coding.+keep+learning." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=D1D7e0&random=true&width=435&lines=keep+coding.+keep+learning." alt="Typing SVG" /></a>
 
-- 🧠 I'm currently leaning: Ruby on Rails 💎
+- 🧠 I'm currently leaning Ruby on Rails 💎
 - 🔭 I’m currently working on [Penzack](https://penzack.com/)
 - 📫 How to reach me **caique.h@hotmail.com**
+- 👾 My website https://carlosh.dev.br/
 
 <p>&nbsp;</p>
 
