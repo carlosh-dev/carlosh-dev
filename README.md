@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Carlos</h3>
 
-- 👨🏻‍💻 I code things
+- 🤖 I program things
 - 🧠 I'm currently leaning Ruby on Rails 💎
 - 🔭 I’m currently working on [Penzack](https://penzack.com/)
 - 📫 How to reach me caique.h@hotmail.com
