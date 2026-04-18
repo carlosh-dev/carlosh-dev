@@ -1,10 +1,8 @@
 <h3>Hi 👋, I'm Carlos</h3>
 
 - 🤖 I program things
-- 🧠 I'm currently leaning Ruby on Rails 💎
 - 🔭 I’m currently working on [Penzack](https://penzack.com/)
 - 📫 How to reach me caique.h@hotmail.com
-- 👾 My website https://carlosh.dev.br/
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=500&color=488BE6&random=true&width=435&lines=keep+coding.+keep+learning." alt="Typing SVG" />
 
