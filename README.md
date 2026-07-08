@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/carlosh-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosh-dev&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=carlosh-dev&show_icons=true&theme=tokyonight"/>
 </div>
 
 <div>
